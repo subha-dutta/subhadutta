@@ -1,3 +1,5 @@
+![logo](https://github.com/subha-dutta/subhadutta/blob/main/subhadutta%20github.png)
+
 <h1 align="center">Hi 👋, I'm Subha Dutta</h1>
 <h3 align="center">I am from India</h3>
 
